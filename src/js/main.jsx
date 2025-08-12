@@ -10,7 +10,7 @@ import '../styles/index.css'
 
 // components
 import Home from './components/Home';
-let seconds = 995;
+let seconds = 0;
 
 setInterval(()=> {
   seconds = seconds + 1,
